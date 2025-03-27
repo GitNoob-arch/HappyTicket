@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextStyle">
+        <item name="android:textColor">@color/mainText</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:fontFamily">@font/niconne</item>
+    </style>
+
+    <style name="Button" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/PrimaryVariant</item>
+        <item name="colorOnPrimary">@color/numPad</item>
+        <item name="fontFamily">@font/niconne</item>
+        <item name="android:textAlignment">center</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textColor">@color/mainText</item>
+    </style>
+
+    <style name="ButtonNext" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/background</item>
+        <item name="fontFamily">@font/niconne</item>
+        <item name="android:textAlignment">center</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="ButtonNumPad" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/numPad</item>
+        <item name="fontFamily">@font/niconne</item>
+        <item name="android:textAlignment">center</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Theme.HappyTicket.Fullscreen">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+</resources>

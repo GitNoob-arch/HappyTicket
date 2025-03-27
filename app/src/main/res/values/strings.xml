@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Happy Ticket</string>
+    <string name="welcome">Welcome</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+    <string name="start">Start</string>
+    <string name="description">We welcome you to the economic game "Lucky Ticket to the Future".
+        This game is designed so that each of you can learn how to wisely distribute your funds.
+        At the moment, the game implies a team character, later individual.\n \n A little about the game:
+At the beginning of the game, each team is awarded a starting capital of 20,000 monetary units (hereinafter m.u.),
+        which they distribute among eight (8) possible investment instruments.</string>
+    <string name="rules">Rules</string>
+    <string name="next">Next</string>
+    <string name="testSum">123</string>
+    <string name="results">Results</string>
+
+
+    <string name="investingInYourself">Investing in yourself</string>
+    <string name="savingsAccount">Savings account</string>
+    <string name="сontribution">Contribution</string>
+    <string name="lending">lending</string>
+    <string name="federalLoanBonds">Federal loan bonds</string>
+    <string name="business">Business</string>
+    <string name="loan">Loan</string>
+</resources>
