@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         button_start.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this,ChangeCategory.class);
+                Intent intent = new Intent(MainActivity.this,EditCategory.class);
                 startActivity(intent);
             }
         });

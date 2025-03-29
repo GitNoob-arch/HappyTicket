@@ -8,6 +8,8 @@
     </style>
 
     <style name="Theme.HappyTicket" parent="Base.Theme.HappyTicket">
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
     </style>
 
 </resources>
